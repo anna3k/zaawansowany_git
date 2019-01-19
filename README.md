@@ -1,3 +1,4 @@
 # Pierwszy plik readme
-# Drugi plik readme
-# Trzeci plik readme
+# pierwsza zmiana
+# druga zmiana
+# trzecia zmiana
